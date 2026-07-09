@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/agentjz/skill"><img alt="GitHub Repo" src="https://img.shields.io/badge/GitHub-agentjz%2Fskill-181717?logo=github"></a>
-  <a href="https://agentjz.github.io/skill/"><img alt="GitHub Pages" src="https://img.shields.io/badge/Pages-online-222222?logo=githubpages&logoColor=white"></a>
+  <a href="https://github.com/luckymaomi/skill"><img alt="GitHub Repo" src="https://img.shields.io/badge/GitHub-luckymaomi%2Fskill-181717?logo=github"></a>
+  <a href="https://luckymaomi.github.io/skill/"><img alt="GitHub Pages" src="https://img.shields.io/badge/Pages-online-222222?logo=githubpages&logoColor=white"></a>
   <img alt="Project Skill" src="https://img.shields.io/badge/Skill-project%20inception-7c3aed">
   <img alt="Language Chinese" src="https://img.shields.io/badge/Language-中文-d97706">
   <img alt="License MIT" src="https://img.shields.io/badge/License-MIT-blue">
@@ -16,7 +16,7 @@
 
 ## 在线使用
 
-在线页面：[https://agentjz.github.io/skill/](https://agentjz.github.io/skill/)
+在线页面：[https://luckymaomi.github.io/skill/](https://luckymaomi.github.io/skill/)
 
 ## 怎么用
 
