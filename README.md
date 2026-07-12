@@ -1,5 +1,1 @@
-# skill.md
-
-项目初始化与持续交付的通用 skill。
-
-地址：<https://luckymaomi.github.io/skill/>
+windows用户直接复制：在项目根目录执行 Invoke-WebRequest -Uri "https://luckymaomi.github.io/skill/skill.md" -OutFile "skill.md"，然后阅读 skill.md，按步骤依次执行。
